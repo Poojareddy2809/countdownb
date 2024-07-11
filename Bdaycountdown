@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advance Happy Birthday</title>
+    <style>
+        body {
+            background-image: url('https://i.pinimg.com/564x/05/d2/85/05d285968b4cfbc83632b7e2d71986ec.jpg'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 200px
+            padding: 0;
+            margin: 0;
+            
+        }
+        #countdown-container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        #birthday-image {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="countdown-container">
+    <img id="birthday-image" src="https://i.pinimg.com/236x/d9/44/92/d94492a4aa40558fb60e686a9f52b522.jpg" alt="Birthday Image"> 
+    <script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-timezone="Asia/Kolkata" data-textcolor="#1a1717" data-date="2024-10-22 00:00" data-background="#c79393" data-digitscolor="#fffcfc" data-unitscolor="#ff4c4c">HAPPIEST BIRTHDAY BABYGIRL 🥳❤️🐼</a>
+</div>
+
+</body>
+</html>
